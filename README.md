@@ -2,6 +2,8 @@
 ## Thought on the field of computing
 
 _intro_
+
+
 #Through this class, I had time to study creative computing on my own.
 ###Thesedays, I know that it's to learn to code when we're young.
 From this creative computing class, I learned that the scope of computing is wide and there are so many applicable fields.
