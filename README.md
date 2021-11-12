@@ -22,7 +22,8 @@ _intro_
 #### _"I want to edit it with the effect that the camera seems only to take picture of me as an idol shooting."_
 
 ### However, I rarely knew how to apply it. This was an opportunity to implement it and I tried to produce it based on this video.
-<img width="300" alt="스크린샷 2021-11-11 23 42 52" src="https://user-images.githubusercontent.com/93985160/141384491-2fe09412-1836-42a7-8cce-b5364bab71c7.png">
+<img width="300" alt="스크린샷 2021-11-11 23 42 52" src="https://user-images.githubusercontent.com/93985160/141384491-2fe09412-1836-42a7-8cce-b5364bab71c7.png"> <img width="400" alt="스크린샷 2021-11-11 15 22 54" src="https://user-images.githubusercontent.com/93985160/141385283-632bdf33-262f-4e71-8733-25f2659d86ef.png">
+
 
 ## Program (Python, OpenCV)
 
@@ -34,10 +35,27 @@ _intro_
 
 # The difference between facial coding and facial recognition
 
- + Facial detection technology to detect the position of the face (simple face appearance)   1
-  + Facial coding. Face expression recognition - measures human emotions (face muscles such as corners of the mouth, eyebrows, etc.)   2
-   + Facial recognition. Facial characteristics  3
++ Facial detection 
+##### technology to detect the position of the face (simple face appearance)
+  + Facial coding
+  ##### Face expression recognition - measures human emotions (face muscles such as corners of the mouth, eyebrows, etc.)
+   + Facial recognition
+   ##### Facial characteristics
    
+# Program (spark AR studio)
+#### I tried to make a face filter through face recognition.   While investigating creative computing, I learned that facial recognition was also a result of the computing program.
+#### I conducted an experiment in which the movement of the face is detected, and the filter is applied automatically through the program.
+<img width="200" alt="스크린샷 2021-11-11 16 09 53" src="https://user-images.githubusercontent.com/93985160/141385434-058832ed-001c-4a8a-8669-1166e0a26bf0.png"> <img width="200" alt="스크린샷 2021-11-11 16 37 40" src="https://user-images.githubusercontent.com/93985160/141385480-951b7ad0-fe31-4420-b322-4dfdc71017c6.png"> <img width="200" alt="스크린샷 2021-11-11 16 41 52" src="https://user-images.githubusercontent.com/93985160/141385510-95b28fee-aa4e-4851-90d8-fdb9de8b18d4.png">
+
+### Adopting my face experiment
+<img width="200" alt="스크린샷 2021-11-11 16 45 56" src="https://user-images.githubusercontent.com/93985160/141385814-364d56f9-d5ce-4875-89b8-a7d356af33b5.png"> <img width="200" alt="스크린샷 2021-11-11 16 45 59" src="https://user-images.githubusercontent.com/93985160/141385840-88b8c534-1025-4acd-947b-b3b19692bb96.png"> <img width="200" alt="스크린샷 2021-11-11 16 46 59" src="https://user-images.githubusercontent.com/93985160/141385873-56628045-f6d6-42fd-91bf-7e88ecba34c5.png">
 
 
+### Making own tattoo face filter
 
+
+<img width="200" alt="스크린샷 2021-11-11 17 04 12" src="https://user-images.githubusercontent.com/93985160/141385973-3bb04ddc-bd97-4341-ba95-6796e4014719.png"><img width="200" alt="스크린샷 2021-11-12 00 02 54" src="https://user-images.githubusercontent.com/93985160/141386139-d85ed1c7-b267-4d0b-9652-8fe4c363223d.png">
+
+### Even though It was my first time working on creative computing, it was interesting to do researches and experiment alone.
+
+### Hope to learn more deeply about creative computing, which is essential to everyone thesedays.
