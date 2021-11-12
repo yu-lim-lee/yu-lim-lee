@@ -55,6 +55,6 @@
 
 <img width="200" alt="스크린샷 2021-11-11 17 04 12" src="https://user-images.githubusercontent.com/93985160/141385973-3bb04ddc-bd97-4341-ba95-6796e4014719.png"><img width="200" alt="스크린샷 2021-11-12 00 02 54" src="https://user-images.githubusercontent.com/93985160/141386139-d85ed1c7-b267-4d0b-9652-8fe4c363223d.png">
 
-### Even though It was my first time working on creative computing, it was interesting to do researches and experiment alone.
+#### Even though It was my first time working on creative computing, it was interesting to do researches and experiment alone.
 
-### Hope to learn more deeply about creative computing, which is essential to everyone thesedays.
+#### Hope to learn more deeply about creative computing, which is essential to everyone thesedays.
