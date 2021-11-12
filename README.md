@@ -1,7 +1,6 @@
 # CREATIVE COMPUTING_ YU LIM LEE
 ## Thought on the field of computing
 
-_intro_
 
 
 ### Through this class, I had time to study creative computing on my own.
